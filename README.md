@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/philippeloe                                              | 
 | 1    | Github Profile Page                         | https://github.com/philippeloe/philippeloe                                  |
-| 1    | Commit and Push Change from Command Line    | https://github.com/philippeloe/ppchem/commit/1                              |
+| 1    | Commit and Push Change from Command Line    | https://github.com/philippeloe/ppchem/commit/d2e700ae8cd266b8e9b51f2c2ab11d2798d0ae52                              |
 | 1    | Create a New Branch                         | https://github.com/philippeloe/ppchem/tree/new-branch-name                  |
 | 1    | Create a conda environment                  | https://github.com/philippeloe/ppchem/blob/new-branch-name/env.yml            |
 | 1    | Fork a Repo                                 | https://github.com/philippeloe/practical-programming-in-chemistry-milestones |
